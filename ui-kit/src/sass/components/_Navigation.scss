@@ -1,0 +1,14 @@
+.lubycon-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  &__left-section {
+  }
+  &__center-section {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+  }
+  &__right-section {
+  }
+}
